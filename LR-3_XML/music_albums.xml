@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<musicCatalog>
+    <album id="alb1">
+        <title>Thriller</title>
+        <artists>
+            <artist>Майкл Джексон</artist>
+        </artists>
+        <genres>
+            <genre>Поп</genre>
+            <genre>Рок</genre>
+        </genres>
+        <releaseDate>1982-11-30</releaseDate>
+        <ageRestriction>12+</ageRestriction>
+        <tracks>
+            <track>
+                <title>Wanna Be Startin' Somethin'</title>
+                <duration>360</duration> <!-- в секундах -->
+            </track>
+            <track>
+                <title>Billie Jean</title>
+                <duration>294</duration>
+            </track>
+            <track>
+                <title>Beat It</title>
+                <duration>258</duration>
+            </track>
+        </tracks>
+    </album>
+    <album id="alb2">
+        <title>Abbey Road</title>
+        <artists>
+            <artist>The Beatles</artist>
+        </artists>
+        <genres>
+            <genre>Рок</genre>
+            <genre>Поп</genre>
+        </genres>
+        <releaseDate>1969-09-26</releaseDate>
+        <ageRestriction>Нет</ageRestriction>
+        <tracks>
+            <track>
+                <title>Come Together</title>
+                <duration>259</duration>
+            </track>
+            <track>
+                <title>Something</title>
+                <duration>182</duration>
+            </track>
+            <track>
+                <title>Here Comes the Sun</title>
+                <duration>185</duration>
+            </track>
+        </tracks>
+    </album>
+    <album id="alb3">
+        <title>The Dark Side of the Moon</title>
+        <artists>
+            <artist>Pink Floyd</artist>
+        </artists>
+        <genres>
+            <genre>Прогрессивный рок</genre>
+            <genre>Психоделический рок</genre>
+        </genres>
+        <releaseDate>1973-03-01</releaseDate>
+        <ageRestriction>12+</ageRestriction>
+        <tracks>
+            <track>
+                <title>Time</title>
+                <duration>413</duration>
+            </track>
+            <track>
+                <title>Money</title>
+                <duration>382</duration>
+            </track>
+            <track>
+                <title>Us and Them</title>
+                <duration>462</duration>
+            </track>
+        </tracks>
+    </album>
+    <album id="alb4">
+        <title>Back to Black</title>
+        <artists>
+            <artist>Эми Уайнхаус</artist>
+        </artists>
+        <genres>
+            <genre>Соул</genre>
+            <genre>Джаз</genre>
+        </genres>
+        <releaseDate>2006-10-27</releaseDate>
+        <ageRestriction>16+</ageRestriction>
+        <tracks>
+            <track>
+                <title>Rehab</title>
+                <duration>213</duration>
+            </track>
+            <track>
+                <title>You Know I'm No Good</title>
+                <duration>256</duration>
+            </track>
+            <track>
+                <title>Back to Black</title>
+                <duration>241</duration>
+            </track>
+        </tracks>
+    </album>
+    <album id="alb5">
+        <title>Nevermind</title>
+        <artists>
+            <artist>Nirvana</artist>
+        </artists>
+        <genres>
+            <genre>Гранж</genre>
+            <genre>Альтернативный рок</genre>
+        </genres>
+        <releaseDate>1991-09-24</releaseDate>
+        <ageRestriction>16+</ageRestriction>
+        <tracks>
+            <track>
+                <title>Smells Like Teen Spirit</title>
+                <duration>301</duration>
+            </track>
+            <track>
+                <title>Come As You Are</title>
+                <duration>218</duration>
+            </track>
+            <track>
+                <title>Lithium</title>
+                <duration>257</duration>
+            </track>
+        </tracks>
+    </album>
+</musicCatalog>
